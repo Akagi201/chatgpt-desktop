@@ -1,8 +1,10 @@
 # ChatGPT Desktop
 
+[![Release Badge](https://img.shields.io/badge/release-ChatgptDesktop-green)](https://github.com/Akagi201/chatgpt-desktop/releases/latest)
+
 A simple tauri bundler for ChatGPT website.
 
-Only macOS build is maintained in the [releases](https://github.com/Akagi201/chatgpt-desktop/releases) page
+Only macOS build is maintained in the [releases](https://github.com/Akagi201/chatgpt-desktop/releases/latest) page
 
 ## Debug
 
