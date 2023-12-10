@@ -6,8 +6,8 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "chatgpt-desktop",
-    "version": "0.1.0"
+    "productName": "ChatgptDesktop",
+    "version": "0.1.1"
   },
   "tauri": {
     "bundle": {
