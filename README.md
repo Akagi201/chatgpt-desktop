@@ -2,6 +2,8 @@
 
 A simple tauri bundler for ChatGPT website.
 
+Only macOS build is maintained in the [releases](https://github.com/Akagi201/chatgpt-desktop/releases) page
+
 ## Debug
 
 ```sh
