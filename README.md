@@ -6,6 +6,12 @@ A simple tauri bundler for ChatGPT website.
 
 Only macOS build is maintained in the [releases](https://github.com/Akagi201/chatgpt-desktop/releases/latest) page
 
+## Install tauri tools
+
+```sh
+cargo install tauri-cli --git https://github.com/tauri-apps/tauri --tag tauri-v2.0.0-alpha.20
+```
+
 ## Debug
 
 ```sh
