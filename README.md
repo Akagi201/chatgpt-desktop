@@ -25,3 +25,7 @@ cargo tauri dev
 cd src-tauri
 cargo tauri build
 ```
+
+## Refs
+
+* <https://github.com/tw93/Pake>
