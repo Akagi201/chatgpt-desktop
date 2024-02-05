@@ -9,7 +9,7 @@ Only macOS build is maintained in the [releases](https://github.com/Akagi201/cha
 ## Install tauri tools
 
 ```sh
-cargo install tauri-cli --git https://github.com/tauri-apps/tauri --tag tauri-v2.0.0-alpha.21
+cargo install tauri-cli --git https://github.com/tauri-apps/tauri --tag tauri-v2.0.0-beta.2
 ```
 
 ## Debug
