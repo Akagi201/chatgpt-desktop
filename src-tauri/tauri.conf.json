@@ -1,11 +1,11 @@
 {
   "productName": "ChatgptDesktop",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "identifier": "com.akjong.chatgpt-desktop",
   "build": {
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
-    "devUrl": "https://chat.openai.com",
+    "devUrl": "https://chatgpt.com",
     "frontendDist": "../dist"
   },
   "bundle": {
@@ -33,7 +33,7 @@
       {
         "fullscreen": false,
         "center": true,
-        "url": "https://chat.openai.com",
+        "url": "https://chatgpt.com",
         "height": 1200,
         "resizable": true,
         "title": "ChatGPT",
